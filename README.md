@@ -1,4 +1,4 @@
-abriel Lindelöf, Talayeh Aledavood and Barbara Keller
+Gabriel Lindelöf, Talayeh Aledavood and Barbara Keller
 
 ### Interactive plots
 On the following links you will find interactive plots where you can explore the topics of the paper interactively. 
