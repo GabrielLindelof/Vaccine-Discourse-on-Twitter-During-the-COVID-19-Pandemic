@@ -1,6 +1,4 @@
-## Companion website
-# Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic
-Gabriel Lindelöf, Talayeh Aledavood and Barbara Keller
+abriel Lindelöf, Talayeh Aledavood and Barbara Keller
 
 ### Interactive plots
 On the following links you will find interactive plots where you can explore the topics of the paper interactively. 
