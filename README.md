@@ -14,10 +14,10 @@ On the following links you will find interactive plots where you can explore the
 
 [Intertopic Distance](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/intertopic_distance.html) is another way to view the distance between topics.  
 
-### Code
-
+### Dataset
+Our annotated dataset used to train the classifyer to detect the stance of tweets towards COVID-19 vaccines is available at our [GitHub page](https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic)
 
 ### Contact
-
+For any questions contact gabriel.lindelof@aalto.fi or barbara.keller@aalto.fi 
 
 
