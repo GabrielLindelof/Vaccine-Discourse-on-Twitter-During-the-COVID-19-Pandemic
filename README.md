@@ -5,7 +5,7 @@ On the following links you will find interactive plots where you can explore the
 
 [Topic Representations](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/topic_representations.html) shows the most impotant keywords of each topic's representation. 
 
-![Book logo](/assets/rep.PNG)
+![Term Score Bar Graphs](/assets/term_scores.png)
 
 [Topics Over Time](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/topics_over_time.html) shows the popularity of each topic over time, often refered to as a _Dynamic Topic Model_. The values have been normalized to allow easier comparisons between topics. All topics are shown by default which can be messy - double click on a topic's name to deselect all other topics. Topics can then be added one by one for comparisons. 
 
