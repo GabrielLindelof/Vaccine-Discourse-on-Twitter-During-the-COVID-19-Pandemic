@@ -1,9 +1,9 @@
 Authors: Gabriel Lindelöf, Talayeh Aledavood and Barbara Keller
 
 ### Interactive plots
-On the following links you will find interactive plots where you can explore the topics of the paper interactively. 
+Click the red  you will find interactive plots where you can explore the topics of the paper interactively. 
 
-[Topic Representations](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/topic_representations.html) shows the most impotant keywords of each topic's representation, calculated using BERTopics cTFIDF method. You can read more about cTFIDF [here](https://maartengr.github.io/BERTopic/api/ctfidf.html). 
+[Topic Representations](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/topic_representations.html) shows the most impotant keywords of each topic's representation, calculated using BERTopics cTFIDF method. You can read more about cTFIDF [here](https://maartengr.github.io/BERTopic/api/ctfidf.html). [Click here](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/topic_representations.html) to go to the interactive graph. 
 
 ![Term Score Bar Graphs](/assets/term_scores.png)
 
