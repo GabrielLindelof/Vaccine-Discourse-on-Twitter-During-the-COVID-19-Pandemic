@@ -13,7 +13,7 @@ Following the bold links bellow you will find interactive plots where you can ex
 
 [**The Dendrogram**](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/dendrogram.html) shows how close the topics are to each other, illustrated as a hierarchy. 
 
-[**Intertopic Distance**](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/intertopic.html) is another way to view the distance between topics, projected on a plane.   
+[**Intertopic Distance**](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/intertopic.html) is another way to view the distance between topics, projected on a plane. Drag a box around a cluster to zoom in. 
 
 ### Dataset
 Our annotated dataset used to train the classifyer to detect the stance of tweets towards COVID-19 vaccines is available at our [GitHub page](https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic)
