@@ -9,6 +9,7 @@ Following the bold links bellow you will find interactive plots where you can ex
 
 [**Topics Over Time**](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/topics_over_time.html) shows the popularity of each topic over time, often refered to as a _Dynamic Topic Model_. All topics are shown by default which can be messy - double click on a topic's name to deselect all other topics. Topics can then be added one by one for comparisons. To allow for easier comparisons between topics of different size the frequencies have been normalized to values between 0 and 1. A topic having a higher peak than another in the graphs should therefore not be interpreted as it being more popular, but rather as relative popularity for that particular topic. 
 
+![**Topics Over Time Graph**](/assets/topics_over_time.png)
 
 [**The Dendrogram**](https://htmlpreview.github.io/?https://github.com/GabrielLindelof/Vaccine-Discourse-on-Twitter-During-the-COVID-19-Pandemic/blob/companion_website/dendrogram.html) shows how close the topics are to each other, illustrated as a hierarchy. 
 
