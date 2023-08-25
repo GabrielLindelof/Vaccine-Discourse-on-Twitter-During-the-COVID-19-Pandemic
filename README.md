@@ -16,9 +16,13 @@ Feel free to use the dataset for your own research, but please remember to cite 
 
 Lindelöf G, Aledavood T, Keller B
 Dynamics of the Negative Discourse Toward COVID-19 Vaccines: Topic Modeling Study and an Annotated Data Set of Twitter Posts
+
 J Med Internet Res 2023;25:e41319
+
 doi: 10.2196/41319
+
 PMID: 36877804
+
 PMCID: 10134018
 
 
