@@ -13,4 +13,12 @@ The full codebook as well as a more detailed explanation of the annotation proce
 As per Twitter's rules tweets has been dehydrated and only referenced using their unique ID-numbers. To receive the original text content as well as other attributes a tool like [Twarc2](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/) can be used. 
 
 Feel free to use the dataset for your own research, but please remember to cite our work:
->*PAPER REFERENCE TO BE ADDED, UNDER REVIEW*
+
+Lindelöf G, Aledavood T, Keller B
+Dynamics of the Negative Discourse Toward COVID-19 Vaccines: Topic Modeling Study and an Annotated Data Set of Twitter Posts
+J Med Internet Res 2023;25:e41319
+doi: 10.2196/41319
+PMID: 36877804
+PMCID: 10134018
+
+
